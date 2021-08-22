@@ -331,10 +331,34 @@ fieldset[disabled] .btn-theme {
   }
 }
 
-.promo-block .promo-block-text {
+/*.promo-block .promo-block-text {
   font-size: 25px;
   color: #fff;
+} */
+
+
+.promo-block .animated-text{
+  position: relative;
+  height: 70px;
+  overflow: hidden;
 }
+
+.promo-block .animated-text h3{
+  color: #4e9eff;
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 70px;
+  letter-spacing: 1px;
+}
+
+.promo-block .animated-text h3:nth-child(1){
+  animation: text-move 10s infinite;
+}
+
+.promo-block .animated-text h3{
+  font-size: 2.2em;
+}
+
 
 .promo-block .promo-block-divider {
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
