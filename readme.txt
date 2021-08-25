@@ -1,3 +1,5 @@
+I left the below part as to avoid any copyright issues.
+
 Author: 		KeenThemes
 Website: 		http://www.keenthemes.com/
 Contact: 		support@keenthemes.com
